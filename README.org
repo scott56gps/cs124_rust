@@ -3,5 +3,5 @@ This repository is a collection of code projects, assignments and examples
 from my BYU-Idaho CS124 class.  I am endeavoring to duplicate all of my work
 from the class in Rust so I can better understand the language.  I also hope
 to teach Rust to students someday as an introductory class.  I believe Rust
-is a good first language to learn, because it helps you learn good coding
+is a good first language to learn because it helps you learn good coding
 principles from the very start.  There is no "cout".  There is just print!
